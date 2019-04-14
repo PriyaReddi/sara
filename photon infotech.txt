@@ -1,0 +1,30 @@
+oviya.gopalan@photoninfotech.net
+
+
+
+
+==> DBMS stands for :Database management system
+
+==>duplication of data at several places is called :data inconsistency
+
+==>semicollen at the end of each oracle sql statement will terminate the sql statement :true
+======> ------ means to hide certain details of how data is stored and maintain   :data abstraction
+===> it is ok to do exploratory testing as long as,atlest: answer:option D
+===>data model is collection of conceptual tools for describing: answer <all of these>
+===>sql stands for :<structured query launguage>
+====> ------- is a collection of operations that performs a single logical function in database application:<operation>
+====>before using of DBMS information was stored using  :<file system>
+=====>which of the bellow listed software is dbms system  :<all of these>
+====>sql is standard language for :<accessing datadase>
+===> which of the following function cannot be performed by sql? <creating complex ui>
+====>the dbms act as an interface b/n what two components of database vsystem: <database and user>
+====>database is collection of:<data>
+===>identify the advantages of database system :<all of these>
+===>sql is not casesensitive :<false>
+===>it is difficult to access file system than database system;<true>
+====>the condition in WHERE clause can refer to only one value :<true>
+===>DBA stands for?<database administrator>
+===>the main purpose of DBMS is to provide ---view of data to user:<complete>
+===>if it is redendentr file common fields are not matching then it results in?<data inconsistency>
+
+
